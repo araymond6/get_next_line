@@ -1,5 +1,6 @@
 # get_next_line
 Project for 42Quebec
+
 The goal of this project is to make a function that, when called, will get you the first line of a file until the newline character. When it is called again, it will give you the second line and so on.
 
 # Bonus
